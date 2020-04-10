@@ -1,0 +1,59 @@
+body{
+    background-color: black;
+}
+.jumbotron{
+    background: #000000; /* fallback for old browsers */
+  background: -webkit-linear-gradient(to top, #222222, #434343); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to top, #222222, #434343); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  color: orange;
+  text-shadow : 4px 4px 4px black;
+  
+}
+.navbar{
+    background: #000000; /* fallback for old browsers */
+  background: -webkit-linear-gradient(to top, #222222, #434343); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to top, #222222, #434343); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+ 
+  margin-bottom: 2%;
+    
+} 
+#surya{
+  color:green;
+  text-shadow:2px 2px 2px black;
+  font-size: x-large;
+}
+.navbar-dark .navbar-nav .nav-link{
+  color:orange;
+}
+#special{
+  text-align: right;
+}
+.form-inline{
+  text-align: right;
+}
+.nameAnime{
+  text-align: center;
+  font-weight: 500;
+  color: green;
+}
+.nameAnime2{
+  text-align: center;
+  color: orange;
+}
+
+.image {
+  width: 100%;
+  height: 250px;
+  background-size: cover;
+  padding:1%;
+  border:3px solid green;
+  background-position: right;
+}
+.image2{
+  width: 100%;
+  height: 250px;
+  background-size: cover;
+  padding:1%;
+  border:3px solid orange;
+  background-position: right;
+}
